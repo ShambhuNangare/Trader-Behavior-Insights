@@ -122,7 +122,4 @@ These insights support the development of robust, sentiment-aware trading strate
 ✉️ [Email me](mailto:nangareshambho@gmail.com)
 
 ---
-
-## 📂 Repository Structure
-
 # Trader-Behavior-Insights

@@ -1,6 +1,7 @@
 # 📊 Trading Behavior Insights
 
-![Project Banner](images/project_banner.png)
+![image-of-a-man-looking-at-a-Forex-chart-with-different-emoticons](https://github.com/user-attachments/assets/d29ed6db-67cc-489e-b829-7b6f7768e022)
+
 
 This project explores how different market sentiments—**Extreme Greed, Greed, Fear, and Neutral**—influence trader behavior, profitability, trade size, and strategy. Using real-world trading data and statistical methods, we uncover actionable insights to design smarter, sentiment-aware trading strategies.
 

@@ -14,7 +14,7 @@ To explore the relationship between trader performance and market sentiment, unc
 ---
 
 **Steps Involved**:
-- Data Collection (Kaggle)
+- Data Collection
 - Data Preprocessing & Cleaning
 - Exploratory Data Analysis (EDA)
 - Statistical Testing (ANOVA, Chi-squared, Kruskal-Wallis)

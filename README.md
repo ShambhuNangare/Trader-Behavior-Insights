@@ -13,25 +13,68 @@ To explore the relationship between trader performance and market sentiment, unc
 
 ---
 
-**Steps Involved**:
-- Data Collection
-- Data Preprocessing & Cleaning
-- Exploratory Data Analysis (EDA)
-- Statistical Testing (ANOVA, Chi-squared, Kruskal-Wallis)
-- Insight Extraction
-- Strategy Recommendation
+**🛠 Project Pipeline**:
+- 📥 Data Collection
+- 🧹 Data Preprocessing & Cleaning
+- 📊 Exploratory Data Analysis (EDA)
+- 🧪 Statistical Testing (ANOVA, Chi-squared, Kruskal-Wallis)
+- 🔍 Insight Extraction
+- 🎯 Strategy Recommendation 
 
 ---
 
-## 📊 Key Insights
+## 🔍 Key Insights
 
-- **Greed sentiment** delivers the highest profit, even with lower win rates.
-- **Extreme Greed** has the best win rate but smaller profits—likely due to cautious trade sizes.
-- **SELL trades outperform BUY** during emotional markets (Fear, Greed).
-- **BUY trades work better** in calm, Neutral conditions.
-- **SUI coin** shows consistent profitability regardless of sentiment.
-- **Neutral sentiment** sees the highest cross-margin usage (~80%), suggesting increased risk.
-- Statistical tests confirm strong links between sentiment, PnL, trade size, and direction (p < 0.001).
+### 1️⃣ Sentiment-Driven Performance
+
+- 💰 Greed yields the highest overall profits despite a slightly lower win rate — suggesting fewer, more profitable trades.
+- 🏆 Extreme Greed has the highest win rate but lower total profit — possibly due to profit-locking or cautious trading.
+- ⚠️ Neutral sentiment performs worst, with the lowest win rate and PnL — indicating indecision and poor market timing.
+
+---
+
+### 2️⃣ Trade Size Behavior
+
+- 🚀 Extreme Greed: High average and median trade sizes → strong confidence and aggressive positioning.
+- 😨 Fear: High average but low median → a few large traders skewing the average; most remain cautious.
+- 😐 Neutral & 😄 Greed: Small, frequent trades → reflecting caution or stable/low-volatility conditions.
+
+---
+
+### 3️⃣ Trade Direction & Market Sentiment
+
+- 📊 A Chi-squared test (p < 0.001) confirms a significant link between market sentiment and trade direction (BUY/SELL).
+- 🔻 SELL trades outperform BUY during volatile emotional markets like Fear and Greed.
+- 🔼 BUY trades are more successful during Neutral sentiment, where conditions are more stable.
+
+---
+
+### 4️⃣ Coin-Specific Strategy
+
+- 📈 SUI, ETH, and SOL perform better in bearish/fearful market conditions.
+- 🏅 SUI is consistently profitable across all sentiment types — making it a strong candidate for sentiment-independent strategies.
+- 🎯 Aligning coin selection with market sentiment improves timing and trade outcomes.
+
+---
+
+### 5️⃣ Risk Management & Margin Usage
+
+- ⚠️ Cross margin usage is highest in Neutral (~80%) — showing higher risk despite poor market performance.
+- 🛡️ Usage drops during Extreme Greed (~55%) — indicating more cautious and isolated margin strategies.
+- 💸 Trading fees are highest during Fear and Neutral — highlighting the need for cost-efficiency in low-profit scenarios.
+
+---
+
+## ✅ Conclusion
+
+Traders can enhance performance by:
+
+- Aligning strategy with market sentiment (direction, size, and frequency)
+- Prioritizing high-performing coins (like SUI) across conditions
+- Monitoring risk exposure, fee efficiency, and margin behavior
+- Adapting trade direction based on emotional market states
+
+These insights support the development of robust, sentiment-aware trading strategies.
 
 ---
 

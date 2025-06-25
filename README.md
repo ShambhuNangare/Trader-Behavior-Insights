@@ -13,10 +13,6 @@ To explore the relationship between trader performance and market sentiment, unc
 
 ---
 
-## 🧠 Project Pipeline
-
-![Project Pipeline](images/project_pipeline.png)
-
 **Steps Involved**:
 - Data Collection (Kaggle)
 - Data Preprocessing & Cleaning
@@ -45,22 +41,16 @@ To explore the relationship between trader performance and market sentiment, unc
 ![reshaped_average_pnl2](https://github.com/user-attachments/assets/339bcf5c-a8b6-4a9b-88f4-d270f6055df4)
 
 ### 🔹 Win Rate by Sentiment
-![Win Rate](images/win_rate_by_sentiment.png)
+![reshaped_win_rate](https://github.com/user-attachments/assets/c45834d7-8849-4c14-947e-9b4b8754264b)
 
 ### 🔹 Trade Size (Buy vs Sell)
-![Trade Size](images/trade_size_by_sentiment_side.png)
+![reshaped_Average_trade_side_](https://github.com/user-attachments/assets/0bd86b5b-27bf-4972-ae66-298ba83abca5)
 
 ### 🔹 BUY vs SELL Performance
-![Buy vs Sell](images/buy_vs_sell_win_rate.png)
+![reshaped_win_rate_trade_side](https://github.com/user-attachments/assets/13002964-d11b-4d72-8c7b-5f972d62a7ec)
 
-### 🔹 Coin PnL by Sentiment
-![Coin Performance](images/coin_pnl_by_sentiment.png)
-
-### 🔹 Cross Margin Usage
-![Cross Margin](images/cross_margin_usage.png)
-
-### 🔹 Trade Action Distribution
-![Trade Action](images/trade_action_distribution.png)
+### 🔹 Top 10 Coin PnL by Sentiment
+![Average_pnl_coin](https://github.com/user-attachments/assets/165afbd3-8fc4-4363-b177-8a594e59f6fb)
 
 ---
 
@@ -84,7 +74,7 @@ To explore the relationship between trader performance and market sentiment, unc
 
 ## 📬 About Me
 
-**ShambhO Nangare**  
+**Shambho Nangare**  
 🎓 MSc Statistics Graduate  
 💻 Aspiring Data Scientist  
 ✉️ [Email me](mailto:nangareshambho@gmail.com)

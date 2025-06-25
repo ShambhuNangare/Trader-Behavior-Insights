@@ -50,7 +50,7 @@ To explore the relationship between trader performance and market sentiment, unc
 ![reshaped_win_rate_trade_side](https://github.com/user-attachments/assets/13002964-d11b-4d72-8c7b-5f972d62a7ec)
 
 ### 🔹 Top 10 Coin PnL by Sentiment
-![Average_pnl_coin](https://github.com/user-attachments/assets/165afbd3-8fc4-4363-b177-8a594e59f6fb)
+![reshaped_average_pnl_coin2](https://github.com/user-attachments/assets/ce196f41-ba45-47ad-bd2f-82369a6cb8f9)
 
 ---
 

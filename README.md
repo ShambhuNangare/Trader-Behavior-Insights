@@ -8,7 +8,7 @@ This project explores how different market sentiments—**Extreme Greed, Greed, 
 
 ## 🎯 Objective
 
-> To explore the relationship between trader performance and market sentiment, uncover hidden patterns, and deliver insights that can drive smarter trading strategies.
+To explore the relationship between trader performance and market sentiment, uncover hidden patterns, and deliver insights that can drive smarter trading strategies.
 
 ---
 
@@ -73,8 +73,6 @@ This project explores how different market sentiments—**Extreme Greed, Greed, 
 
 ## ⚙️ Tools Used
 
-![Tools](images/tools_used_icons.png)
-
 - Python (Pandas, NumPy)
 - Seaborn, Matplotlib
 - Jupyter Notebook
@@ -85,12 +83,10 @@ This project explores how different market sentiments—**Extreme Greed, Greed, 
 
 ## 📬 About Me
 
-![About Me](images/about_me_card.png)
-
-**Shambhu Nangare**  
+**ShambhO Nangare**  
 🎓 MSc Statistics Graduate  
 💻 Aspiring Data Scientist  
-✉️ [Email me](mailto:shambhu.nangare@example.com) *(replace with your actual email)*
+✉️ [Email me](mailto:nangareshambho@gmail.com)
 
 ---
 

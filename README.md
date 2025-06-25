@@ -114,6 +114,15 @@ These insights support the development of robust, sentiment-aware trading strate
 
 ---
 
+## Dataset
+
+The datasets used in this project are publicly available on Kaggle:
+
+- [Bitcoin Market Sentiment Dataset](https://www.kaggle.com/datasets/shambhosatishnangsre/bitcoin-market-sentiment-dataset)
+- [Trader Historical Data from Hyperliquid](https://www.kaggle.com/datasets/shambhosatishnangsre/historical-trader-data)
+
+---
+
 ## 📬 About Me
 
 **Shambho Nangare**  

@@ -67,7 +67,6 @@ To explore the relationship between trader performance and market sentiment, unc
 - Python (Pandas, NumPy)
 - Seaborn, Matplotlib
 - Jupyter Notebook
-- Kaggle Datasets
 - GitHub for version control
 
 ---

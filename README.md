@@ -42,7 +42,7 @@ To explore the relationship between trader performance and market sentiment, unc
 ## 📈 Visualizations
 
 ### 🔹 Average PnL by Sentiment
-![reshaped_average_pnl](https://github.com/user-attachments/assets/2c444ce0-c604-4029-9bfb-59b43166cfbf)
+![reshaped_average_pnl2](https://github.com/user-attachments/assets/339bcf5c-a8b6-4a9b-88f4-d270f6055df4)
 
 ### 🔹 Win Rate by Sentiment
 ![Win Rate](images/win_rate_by_sentiment.png)

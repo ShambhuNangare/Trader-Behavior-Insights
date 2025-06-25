@@ -1,4 +1,4 @@
-# 📊 Trading Behavior Insights
+# 📊 Trader Behavior Insights
 
 ![image-of-a-man-looking-at-a-Forex-chart-with-different-emoticons](https://github.com/user-attachments/assets/d29ed6db-67cc-489e-b829-7b6f7768e022)
 

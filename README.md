@@ -114,7 +114,7 @@ These insights support the development of robust, sentiment-aware trading strate
 
 ---
 
-## Dataset
+## 📥 Dataset
 
 The datasets used in this project are publicly available on Kaggle:
 

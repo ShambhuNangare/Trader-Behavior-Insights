@@ -1,4 +1,4 @@
-# 📊 Trading Behavior Across Market Sentiments
+# 📊 Trading Behavior Insights
 
 ![Project Banner](images/project_banner.png)
 
@@ -41,7 +41,8 @@ To explore the relationship between trader performance and market sentiment, unc
 ## 📈 Visualizations
 
 ### 🔹 Average PnL by Sentiment
-![Avg PnL](Average_pnl.png)
+![Average_pnl](https://github.com/user-attachments/assets/eda61078-ae44-416d-b675-699a7a42745e)
+
 
 ### 🔹 Win Rate by Sentiment
 ![Win Rate](images/win_rate_by_sentiment.png)
@@ -87,14 +88,6 @@ To explore the relationship between trader performance and market sentiment, unc
 🎓 MSc Statistics Graduate  
 💻 Aspiring Data Scientist  
 ✉️ [Email me](mailto:nangareshambho@gmail.com)
-
----
-
-## 📎 Project Status
-
-✅ Analysis Complete  
-🚀 Ready to Share on GitHub  
-📁 Insights Ready for Presentation or Portfolio Use  
 
 ---
 
